@@ -1,2 +1,2 @@
 # Python-Assignments
-Python Assignment codes given by Surge AI Lab
+Python Assignment given by Surge AI Lab
