@@ -1,4 +1,4 @@
-#Q. 1 Create a command line contact book through which user can search for details provided
+#Q.1 Create a log creator 
 
 import logging
 from os import path
