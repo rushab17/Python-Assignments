@@ -1,3 +1,5 @@
+# Create a command line contact book through which user can search for provided details
+
 import csv
 from os import path
 
